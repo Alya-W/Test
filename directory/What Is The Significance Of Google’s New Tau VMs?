@@ -1,0 +1,5 @@
+Title:What Is The Significance Of Google’s New Tau VMs?
+Author:Matt Kimball
+Publication date:2021-07-08 00:00:00
+------
+Google Cloud (GCP) recently released its Tau VM platform, based on AMD’s 3rd Generation EPYC Processor (codenamed Milan). With this release, Google is claiming best absolute performance and price-performance leadership related to general-purpose VMs in the public cloud. These are both very bold claims.  What does this mean for customers? And what does it mean for competitors such as AWS, Azure, and Oracle Cloud (OCI)? I will dig deeper into this in the following few paragraphs.  First – a little more on Tau First – a little more on Tau
